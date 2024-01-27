@@ -1,0 +1,23 @@
+c language
+(coding ninja)
+
+identifer: name given to any form of variable 
+variable :int is the key word 
+
+#include<stdio.h>
+void main(){
+int num1=6;
+printf("num1 is %d",num1);
+}
+
+Rule 1: It can use a-z,A-Z,0-9(Alphanumaric in nature)
+Rule 2: It can start with any character (a or A and _ , But the shouldnot be a number)
+RUle 3: There shouldnot be any space in between the character of defining the identifier 
+Rule 4: It is case sensitive 
+Rule 5: We cant use keyword as an identifier 
+Rule 6: The identifier of a variable you are declaring should make some sense 
+Rule 7: I cant intialise the variable with similar name 
+
+printf("num1 is %d",num1);
+
+printf works with R to L order of precedence
